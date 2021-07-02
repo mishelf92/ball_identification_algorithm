@@ -1,11 +1,13 @@
-# ball_identification_algorithm in a simulated robotic football game
+# ball identification algorithm in a simulated robotic football game
 
 Explanation of the files:
 
 1.clickMouse - The code lets you know the pixels of a particular point in image
 
 2.Simulation.ttt - the Simulation in CoppeliaSim. From here you can create data of images the steps that need to be done for this are:
----image--- 
+![צילום מסך מ־2021-07-02 15-25-35](https://user-images.githubusercontent.com/73639866/124274556-15848000-db4a-11eb-923e-ceb7f90f1e67.png)
+
+
 
 3.ball_identification_algorithm - This code runs the file "Simulation.ttt" and returns the position of the ball at each simulation step i.e. every 0.05 seconds this the final code of the algorithm for the project.
 
