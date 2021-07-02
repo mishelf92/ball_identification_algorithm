@@ -1,2 +1,1 @@
-# ball_identification_algorithm-
-ball identification algorithm in a simulated robotic football game
+# ball_identification_algorithm in a simulated robotic football game
