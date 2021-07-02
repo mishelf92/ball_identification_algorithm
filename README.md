@@ -4,7 +4,7 @@ Explanation of the files:
 
 1.clickMouse - The code lets you know the pixels of a particular point in image
 
-2.Simulation.ttt - the Simulation in CoppeliaSim. From here you can create data of images The steps that need to be done for this are:
+2.Simulation.ttt - the Simulation in CoppeliaSim. From here you can create data of images the steps that need to be done for this are:
 ---image--- 
 
 3.ball_identification_algorithm - This code runs the file "Simulation.ttt" and returns the position of the ball at each simulation step i.e. every 0.05 seconds this the final code of the algorithm for the project.
